@@ -21,6 +21,7 @@ This project demonstrates a very basic regression task using linear regression. 
 ### Usage
 ```python
 python regression.py
+```
 
 
 # Classification with CIFAR10
@@ -36,6 +37,7 @@ Discover the world of image classification with the CIFAR10 dataset, the dataset
 ## Usage
 ```python
 python classification.py
+```
 
 
 # Text Generation with LSTM
@@ -51,6 +53,7 @@ Explore the capabilities of Long Short-Term Memory (LSTM) networks by generating
 ## Usage
 ```python
 python textgeneration.py
+```
 
 
 ### Transformer Model
@@ -69,6 +72,7 @@ Transformers are the backbone of many state-of-the-art models in natural languag
 ## Usage
 ```python
 python transformer.py
+```
 
 
 
