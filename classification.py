@@ -309,7 +309,7 @@ def test(model):
 
 if __name__ == '__main__':
 
-    # Es 1.1 Visualize some images from the training dataset, please choose the number of images you would like to see by
+    # Visualize some images from the training dataset, please choose the number of images you would like to see by
     # changing the value of the variable imagesToPrint
     '''
     imagesToPrint = 3
