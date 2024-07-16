@@ -55,10 +55,6 @@ Explore the capabilities of Long Short-Term Memory (LSTM) networks by generating
 python textgeneration.py
 ```
 
-
-### Transformer Model
-
-```markdown
 # Versatile Transformer Model
 
 ## Description
