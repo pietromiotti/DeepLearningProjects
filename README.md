@@ -6,7 +6,8 @@ Welcome to the Machine Learning Fun Projects! This repository contains four diff
 1. [Simple Linear Regression](#simple-linear-regression)
 2. [Classification with MNIST](#classification-with-mnist)
 3. [Text Generation with LSTM](#text-generation-with-lstm)
-4. [Versatile Transformer Model](#versatile-transformer-model)
+4. [Versatile Transformer Model](#transformer-model)
+5. [DiffLogic Gate Network Tutorial](#difflogicGate-tutorial)
 
 ## Simple Linear Regression
 
@@ -55,7 +56,7 @@ Explore the capabilities of Long Short-Term Memory (LSTM) networks by generating
 python textgeneration.py
 ```
 
-# Versatile Transformer Model
+# Transformer Model
 
 ## Description
 Transformers are the backbone of many state-of-the-art models in natural language processing and other fields. This project provides a versatile Transformer model that can be adapted for various tasks such as translation, summarization, and more.
@@ -70,6 +71,9 @@ Transformers are the backbone of many state-of-the-art models in natural languag
 python transformer.py
 ```
 
+# DiffLogic Gate Tutorial
+
+Colab Notebook that summarizes DiffLogic Gate network and explain how to train them!
 
 
 
