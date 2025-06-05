@@ -7,7 +7,6 @@ Welcome to the Machine Learning Fun Projects! This repository contains four diff
 2. [Classification with MNIST](#classification-with-mnist)
 3. [Text Generation with LSTM](#text-generation-with-lstm)
 4. [Versatile Transformer Model](#transformer-model)
-5. [DiffLogic Gate Network Tutorial](#difflogicGate-tutorial)
 
 ## Simple Linear Regression
 
