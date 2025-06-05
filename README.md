@@ -51,9 +51,4 @@ Transformers are the backbone of many state-of-the-art models in natural languag
 python transformer.py
 ```
 
-# DiffLogic Gate Tutorial
-
-Colab Notebook that summarizes DiffLogic Gate networks and explain how to train them
-
-
 
